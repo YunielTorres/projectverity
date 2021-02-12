@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef099700-a128-4a0e-ab77-6d0f024a5f08" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oLUpe6G7SxFrQhud7bSmsUf12h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/br/com/verity/feature" />
+      <recent name="$PROJECT_DIR$/src/main/java/br/com/verity/utils" />
+      <recent name="$PROJECT_DIR$/src/main/java/br/com/verity/step" />
+      <recent name="$PROJECT_DIR$/src/main/java/br/com/verity/page" />
+      <recent name="$PROJECT_DIR$/driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Acessar a pagina web, validar titulos e preencher formulario">
+    <configuration name="Scenario: Acessar a pagina web e validar titulos (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/java/br/com/verity/feature/validacaoAcessarVerity.feature" />
+      <option name="GLUE" value="br.com.verity.step" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Verity" />
+      <option name="NAME_FILTER" value="^Acessar a pagina web e validar titulos$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Acessar a pagina web e validar titulos$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Acessar a pagina web e validar titulos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Acessar a pagina web e validar titulos" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/java/br/com/verity/feature/validacaoAcessarSiteVerity.feature" />
+      <option name="GLUE" value="br.com.verity.step" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Verity" />
+      <option name="NAME_FILTER" value="^Acessar a pagina web e validar titulos$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Acessar a pagina web e validar titulos$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Acessar a pagina web e validar titulos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Acessar a pagina web, validar titulos e preencher formulario" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/java/br/com/verity/feature/validacaoAcessarVerity.feature" />
+      <option name="GLUE" value="br.com.verity.step" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Verity" />
+      <option name="NAME_FILTER" value="^Acessar a pagina web\, validar titulos e preencher formulario$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Acessar a pagina web\, validar titulos e preencher formulario$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Acessar a pagina web, validar titulos e preencher formulario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaginaInicial.abrirpagina" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Verity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.verity.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.verity.page" />
+      <option name="MAIN_CLASS_NAME" value="br.com.verity.page.PaginaInicial" />
+      <option name="METHOD_NAME" value="abrirpagina" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Acessar a pagina web, validar titulos e preencher formulario" />
+        <item itemvalue="Cucumber java.Scenario: Acessar a pagina web e validar titulos (1)" />
+        <item itemvalue="Cucumber java.Scenario: Acessar a pagina web e validar titulos" />
+        <item itemvalue="JUnit.PaginaInicial.abrirpagina" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef099700-a128-4a0e-ab77-6d0f024a5f08" name="Default Changelist" comment="" />
+      <created>1613065551853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613065551853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="393" key="GridCell.Tab.0.bottom" timestamp="1613138421682">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="393" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1613138421682" />
+    <state width="1638" height="393" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1613137411509" />
+    <state width="1638" height="393" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1613137518061" />
+    <state width="1638" height="393" key="GridCell.Tab.0.center" timestamp="1613138421682">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="393" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1613138421682" />
+    <state width="1638" height="393" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1613137411508" />
+    <state width="1638" height="393" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1613137518060" />
+    <state width="1638" height="393" key="GridCell.Tab.0.left" timestamp="1613138421682">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="393" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1613138421682" />
+    <state width="1638" height="393" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1613137411508" />
+    <state width="1638" height="393" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1613137518060" />
+    <state width="1638" height="393" key="GridCell.Tab.0.right" timestamp="1613138421682">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="393" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1613138421682" />
+    <state width="1638" height="393" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1613137411509" />
+    <state width="1638" height="393" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1613137518061" />
+    <state x="484" y="322" key="Maven.ArtifactSearchDialog" timestamp="1613135449983">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="484" y="322" key="Maven.ArtifactSearchDialog/0.23.1680.975@0.23.1680.975" timestamp="1613135449983" />
+    <state x="942" y="229" key="chooseDestDirectoryDialog" timestamp="1613136770945">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="942" y="229" key="chooseDestDirectoryDialog/0.23.1680.975@0.23.1680.975" timestamp="1613136770945" />
+    <state x="100" y="123" width="1480" height="775" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1613135790202">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="100" y="123" width="1480" height="775" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1680.975@0.23.1680.975" timestamp="1613135790202" />
+    <state x="506" y="269" width="683" height="486" key="find.popup" timestamp="1613068720074">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="506" y="269" width="683" height="486" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1613068720074" />
+  </component>
+</project>
